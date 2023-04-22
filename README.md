@@ -1,4 +1,4 @@
-# Unit converter
+# My Emojis
 
 JavaScript exercise from Scrimba
 
